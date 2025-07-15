@@ -1,4 +1,4 @@
-A fully responsive and real-time chat application built with the **MERN Stack**. Users can register, log in, and chat with others in real-time with modern UI and robust backend infrastructure.
+A fully responsive and real-time chat application built with the **MERN Stack**. Users can register, log in and chat with others in real-time with modern UI and robust backend infrastructure.
 
 ---
 
